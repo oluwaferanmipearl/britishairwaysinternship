@@ -18,6 +18,8 @@ The primary objective of this project is to scrape and collect customer feedback
 ## Key Deliverables
 - Data Collection Script: A script to scrape and gather data from designated sources.
 - Exploratory Data Analysis (EDA): A notebook detailing the exploratory analysis of the data.
+- Sentiment Analysis
+- Predictive Analysis 
 - Insightful Visualizations: Graphs and charts that highlight key findings and trends.
 - Final Report: A summarized report of insights and recommendations based on the analysis.
 ## Conclusion
